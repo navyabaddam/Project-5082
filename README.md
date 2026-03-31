@@ -7,7 +7,7 @@
 - Pipeline Engineer: Leela Kumar  
 - UX Lead: Swetha Kanumuri  
 - Prompt Engineer: Navya Baddam  
-- QA Lead: Valmiki Yogi  
+- QA Lead: Yogi Venkata Balaji Muthakani
 
 ---
 ---
